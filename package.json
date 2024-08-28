@@ -1,0 +1,26 @@
+{
+  "name": "automate-trustindex-fetching",
+  "version": "1.0.0",
+  "description": "This cypress suites allows you to automatically check if there are new reviews on your google account without the need for a premium sub",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fleblond07/automate-trustindex-fetching.git"
+  },
+  "keywords": [
+    "cypress",
+    "trust-index"
+  ],
+  "author": "FLB",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fleblond07/automate-trustindex-fetching/issues"
+  },
+  "homepage": "https://github.com/fleblond07/automate-trustindex-fetching#readme",
+  "devDependencies": {
+    "cypress": "^13.14.0"
+  }
+}
